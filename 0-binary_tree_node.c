@@ -1,5 +1,7 @@
-#include <stdlib.h>
-#include "binary_trees.h"
+#ifndef _BINARY_TREES_H_
+#define _BINARY_TREES_H_
+
+#include <stddef.h>
 
 /**
  * binary_tree_node - Creates a binary tree node.
